@@ -1,6 +1,4 @@
-Hello Fucking World, i'm meicookies and I don't have anything, except my code
-- KONTOL 1
-- KONTOL 2
-- KONTOL 3
-
+Hello World <br />
+I'm meicookies <br />
+18 years old <br />
 ![pengunjung](https://gpvc.arturio.dev/meicookies)
