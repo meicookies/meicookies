@@ -37,7 +37,7 @@
   </div>
   <div class="p1">
     <p>	
-	  <?php echo php_uname(); ?> <br /> <br />
+      <?php echo php_uname(); ?> <br /> <br />
       Reason? just for fun... <br /><br />
       AnonSec Team | Indonesian Hacktivist <br />
       <marquee width="50%"> Anon7 | L4N4N9_4K1R4 | exa_gans77 | VenoRyan | MR.HAGAN_4040CR4ZY | PohonSagu | ./s3nt1n3L | DemonArmy | FarisGanss | KosameAmegai | CompuByte | B3bek_Gans | Mr.Froggy | #mrlinkerrorsystem | K4TSUY4_GH05T | Malaikat Hati | He4l3rz | Mr.Grim | PsychoH4x0r | AlgiSec1337 | Jamet1337 | Rian Haxor</marquee>
